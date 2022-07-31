@@ -33,9 +33,9 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 ![image](https://user-images.githubusercontent.com/107868423/182033275-dd38475f-e5cb-4f35-934f-58de3e34e1da.png)
 
-4. Open the following example under File > Examples > WiFi (ESP32) > WiFiScan
-5. 
-6. A new sketch opens in your Arduino IDE:
+6. Open the following example under File > Examples > WiFi (ESP32) > WiFiScan
+
+7. A new sketch opens in your Arduino IDE:
 
 ![image](https://user-images.githubusercontent.com/107868423/182033305-512a4996-75b5-4a4a-9619-a0692a80d797.png)
 
