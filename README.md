@@ -17,8 +17,11 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 ![image](https://user-images.githubusercontent.com/107868423/182033229-c4a6c9f5-e8d5-494b-a79e-b07a3d4b9b21.png)
 
 3.Open the Boards Manager. Go to Tools > Board > Boards Manager
+
 ![image](https://user-images.githubusercontent.com/107868423/182033240-6b90231f-67d8-4472-8144-081b039af3c3.png)
+
 4.Search for ESP32 and press install button for the “ESP32 by Espressif Systems“:
+
 
 ![image](https://user-images.githubusercontent.com/107868423/182033249-974df01a-ee5f-4b66-86c0-aa7f8e00d235.png)
 
@@ -29,8 +32,10 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 ![image](https://user-images.githubusercontent.com/107868423/182033271-6ab3b60f-2718-486d-b71e-cf0599143acd.png)
 
 ![image](https://user-images.githubusercontent.com/107868423/182033275-dd38475f-e5cb-4f35-934f-58de3e34e1da.png)
+
 4. Open the following example under File > Examples > WiFi (ESP32) > WiFiScan
-5. A new sketch opens in your Arduino IDE:
+5. 
+6. A new sketch opens in your Arduino IDE:
 
 ![image](https://user-images.githubusercontent.com/107868423/182033305-512a4996-75b5-4a4a-9619-a0692a80d797.png)
 
