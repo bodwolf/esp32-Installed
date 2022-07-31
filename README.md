@@ -1,5 +1,5 @@
-#esp32 Installed
-#Installing ESP32 Add-on in Arduino IDE
+# esp32 Installed
+# Installing ESP32 Add-on in Arduino IDE
 
 starting this installation procedure, make sure you have the latest version of the Arduino IDE installed in your computer. If you don’t, uninstall it and install it again. Otherwise, it may not work.
 
